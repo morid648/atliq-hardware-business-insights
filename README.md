@@ -104,13 +104,3 @@ ORDER BY product_count DESC;
 ## Author
 
 Anshul Chaudhary.
-Aspiring Data Analyst.
-
-## Project Goal
-
-This project demonstrates the ability to:
-
-• Translate business problems into SQL queries.
-• Analyze relational datasets.
-• Generate actionable business insights.
-• Communicate findings to business stakeholders.
