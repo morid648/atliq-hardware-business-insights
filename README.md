@@ -9,4 +9,4 @@ SQL data analytics project analyzing Atliq Hardware’s business data to generat
 ![Segment Distribution](Images/Segment_Distribution_Chart.jpg)
 
 ### Channel Contribution
-![Channel Contribution](Images/Segment_Distribution_Chart.jpg)
+![Channel Contribution](Images/Channel_Contribution_Chart.jpg)
