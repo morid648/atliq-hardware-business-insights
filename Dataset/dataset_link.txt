@@ -1,0 +1,9 @@
+Dataset Source:
+
+This dataset is provided as part of the Codebasics SQL Resume Challenge.
+
+You can access it here:
+https://codebasics.io/challenges/codebasics-resume-project-challenge/7
+
+Database Used:
+gdb023 (Atliq Hardware Database)
