@@ -100,16 +100,10 @@ FROM dim_product
 GROUP BY segment
 ORDER BY product_count DESC;
 ```
-## Project Deliverables
-
-📂 SQL Queries → /SQL_Queries
-📊 Presentation → /Presentation
-📈 Visuals → /Images
-🗂 Dataset Info → /Dataset
 
 ## Author
 
-Anshul Chaudhary
+Anshul Chaudhary 
 Aspiring Data Analyst
 
 ## Project Goal
