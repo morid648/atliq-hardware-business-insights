@@ -100,18 +100,8 @@ FROM dim_product
 GROUP BY segment
 ORDER BY product_count DESC;
 
-## Project Visuals
 
-### Product Growth
-![Product Growth](Images/product_growth_chart.jpg)
-
-### Segment Distribution
-![Segment Distribution](Images/Segment_Distribution_Chart.jpg)
-
-### Channel Contribution
-![Channel Contribution](Images/Channel_Contribution_Chart.jpg)
-
-##Project Structure
+## Project Structure
 atliq-hardware-business-insights
 │
 ├── SQL_Queries
@@ -120,21 +110,21 @@ atliq-hardware-business-insights
 ├── Dataset
 └── README.md
 
-##Project Deliverables
+## Project Deliverables
 
 • SQL Queries → /SQL_Queries
 • Presentation → /Presentation
 • Visuals → /Images
 • Dataset Info → /Dataset
 
-##Author
+## Author
 
-###Anshul Chaudhary
-###Aspiring Data Analyst
+### Anshul Chaudhary
+### Aspiring Data Analyst
 
-##Project Goal
+## Project Goal
 
-###This project demonstrates the ability to:
+### This project demonstrates the ability to:
 
 ####• Translate business problems into SQL queries
 ####• Analyze relational datasets
