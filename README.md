@@ -100,33 +100,23 @@ FROM dim_product
 GROUP BY segment
 ORDER BY product_count DESC;
 
-
-## Project Structure
-atliq-hardware-business-insights
-│
-├── SQL_Queries
-├── Presentation
-├── Images
-├── Dataset
-└── README.md
-
-## Project Deliverables
+Project Deliverables
 
 • SQL Queries → /SQL_Queries
 • Presentation → /Presentation
 • Visuals → /Images
 • Dataset Info → /Dataset
 
-## Author
+Author
 
-### Anshul Chaudhary
-### Aspiring Data Analyst
+Anshul Chaudhary
+Aspiring Data Analyst
 
-## Project Goal
+Project Goal
 
-### This project demonstrates the ability to:
+This project demonstrates the ability to:
 
-####• Translate business problems into SQL queries
-####• Analyze relational datasets
-####• Generate actionable business insights
-####• Communicate findings to business stakeholders
+• Translate business problems into SQL queries
+• Analyze relational datasets
+• Generate actionable business insights
+• Communicate findings to business stakeholders
