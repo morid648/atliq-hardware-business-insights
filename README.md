@@ -66,10 +66,10 @@ The dataset consists of six main tables:
 ![Product Growth](Images/product_growth_chart.jpg)
 
 ### Segment Distribution
-![Segment Distribution](Images/segment_distribution_chart.jpg)
+![Segment Distribution](Images/Segment_Distribution_Chart.jpg)
 
 ### Channel Contribution
-![Channel Contribution](Images/channel_contribution_chart.jpg)
+![Channel Contribution](Images/Channel_Contribution_Chart.jpg)
 
 ---
 
